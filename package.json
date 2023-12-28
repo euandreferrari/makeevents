@@ -1,4 +1,13 @@
 {
+  "name": "makeevents",
+  "version": "1.0.0",
+  "description": "Meu laboratório de doideiras",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "docker": "^1.0.0",
     "docker-compose": "^0.24.3",
